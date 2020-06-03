@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1591137610 source:h:\taski\2 semestr\sortirovka\fi\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<locale.h>
+	<cstdlib>
+	<cassert>
+
